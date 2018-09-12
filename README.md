@@ -5,9 +5,10 @@ Download City Scapes Dataset directly using this script. This makes it easier wh
 In order to use the City Scapes dataset, you need to create an account in their website (https://www.cityscapes-dataset.com/). You need to login to download the data. This makes it difficult to download the data directly on your server. You can use the script provided here to directly download the data. 
 <br /> 
 
-![dataset](../readmefiles/dataset-image.png)
+![dataset](https://github.com/cemsaz/city-scapes-script/blob/master/readmefiles/dataset-image.png)
 
 <br /> 
+
 ## The Script
 In the first command, put your username and password. This will login with your credentials and keep the associated cookie.
 
