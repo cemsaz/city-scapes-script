@@ -7,8 +7,6 @@ In order to use the City Scapes dataset, you need to create an account in their 
 
 ![dataset](https://github.com/cemsaz/city-scapes-script/blob/master/readmefiles/dataset-image.png)
 
-<br /> 
-
 ## The Script
 In the first command, put your username and password. This will login with your credentials and keep the associated cookie.
 
@@ -23,7 +21,7 @@ wget --load-cookies cookies.txt --content-disposition https://www.cityscapes-dat
 ```
 
 packageID=1 will download the file gtFine_trainvaltest.zip <br /> 
-You can change it download another dataset. packageIDs map like this: <br /> <br />
+You can change it to download another package. packageIDs map like this: <br /> <br />
 1 -> gtFine_trainvaltest.zip (241MB) <br />
 2 -> gtCoarse.zip (1.3GB) <br />
 3 -> leftImg8bit_trainvaltest.zip (11GB) <br />
